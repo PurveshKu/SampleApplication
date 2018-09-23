@@ -12,6 +12,9 @@ using MvcMusicStore.FeaturetoggleSwitches;
 
 namespace MvcMusicStore.Controllers
 {
+    /// <summary>
+    /// Home COntroller
+    /// </summary>
     public class HomeController : Controller
     {
         //
